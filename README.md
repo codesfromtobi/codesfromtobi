@@ -27,7 +27,7 @@ About Me
 Analytical Cloud engineer looking to leverage a strong background in IT support, product management, and customer service. Seeking to apply excellent problem-solving, communication, and technical skills to contribute effectively as a Cloud Engineer.
 
 - 🔭 I’m currently working on getting [AWS Solutions Architect Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
-- ⚡ Fun fact: I'm ...!
+- ⚡ Fun Fact: I love building...!
 
 
 Languages and Tools
